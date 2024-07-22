@@ -3,3 +3,4 @@
 
 教程来源参考：[https://github.com/InternLM/Tutorial](https://github.com/InternLM/Tutorial)
 
+项目ID：1006 https://github.com/InternLM/Tutorial/discussions/1006
