@@ -3,6 +3,9 @@
 第一步，用本人或他人的直播视频，提取音频，然后提取文本，取得语料数据。
 ### B站直播回放转音频
 https://www.xtdowner.com/video/bilibili/
+
+https://openxlab.org.cn/apps/detail/wwdok/faster-whisper-webui-cn
+
 ### 音频提取文本
 
 ## 训练
