@@ -4,3 +4,10 @@
 教程来源参考：[https://github.com/InternLM/Tutorial](https://github.com/InternLM/Tutorial)
 
 项目ID：1006 https://github.com/InternLM/Tutorial/discussions/1006
+
+## 技术说明
+[tech.md](tech.md)
+
+## 技术架构
+
+![](技术架构图.png)
