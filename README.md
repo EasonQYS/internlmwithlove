@@ -11,3 +11,8 @@
 ## 技术架构
 
 ![](技术架构图.png)
+
+## 应用体验
+数据获取：https://openxlab.org.cn/apps/detail/yisheng/ASR-funasr
+
+模型体验：https://openxlab.org.cn/apps/detail/yisheng/steamlit-gpu
