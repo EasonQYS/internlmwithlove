@@ -16,3 +16,5 @@
 数据获取：https://openxlab.org.cn/apps/detail/yisheng/ASR-funasr
 
 模型体验：https://openxlab.org.cn/apps/detail/yisheng/steamlit-gpu
+
+4bit量化后（目前效果较差）：https://openxlab.org.cn/apps/detail/yisheng/snh48_4bit
