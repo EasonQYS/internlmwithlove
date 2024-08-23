@@ -1,5 +1,5 @@
 # internlmwithlove
-本项目希望在InternLM2.5的基础上，可以进行模型微调，创造出可以帮助情侣对话的聊天模型。可以自动转发特定联系人的微信消息（或者xx软件的消息）给大模型，大模型辅助编辑回复后，预存到输入框，用户确认可行后发送消息。
+本项目希望在InternLM2.5的基础上，可以进行模型微调，创造出可以模拟小偶像对话的聊天模型。可以通过数据抓取方法汇总数据集给大模型，大模型微调后，形成新的权重文件。通过gradio或streamlit进行网页体验开发。
 
 教程来源参考：[https://github.com/InternLM/Tutorial](https://github.com/InternLM/Tutorial)
 
@@ -13,6 +13,7 @@
 ![](技术架构图.png)
 
 ## 应用体验
+
 数据获取：https://openxlab.org.cn/apps/detail/yisheng/ASR-funasr
 
 模型体验：https://openxlab.org.cn/apps/detail/yisheng/steamlit-gpu
